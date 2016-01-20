@@ -14,7 +14,7 @@ public class TestRest {
 	 @Path("/toto")
 	 
 	 public String simplejson() {
-		 return "Yes";
+		 return "Yes ca marche";
 	 }
 
 }
